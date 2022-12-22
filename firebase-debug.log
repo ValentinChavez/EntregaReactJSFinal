@@ -1,0 +1,21 @@
+[debug] [2022-12-19T02:08:11.632Z] ----------------------------------------------------------------------
+[debug] [2022-12-19T02:08:11.634Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\iLATINA\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-19T02:08:11.634Z] CLI Version:   11.18.0
+[debug] [2022-12-19T02:08:11.634Z] Platform:      win32
+[debug] [2022-12-19T02:08:11.634Z] Node Version:  v16.17.1
+[debug] [2022-12-19T02:08:11.635Z] Time:          Sun Dec 18 2022 23:08:11 GMT-0300 (hora estándar de Argentina)
+[debug] [2022-12-19T02:08:11.635Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-19T02:08:11.642Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-19T02:08:11.642Z] > authorizing via signed-in user (veroegara@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\iLATINA\Desktop\entregaFinalReactEcommerce\Proyecto\ecommerce
+
