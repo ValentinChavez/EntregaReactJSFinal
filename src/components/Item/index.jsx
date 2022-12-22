@@ -15,7 +15,7 @@ const Item = ({ product }) => {
         {
         width: '15%',
         margin: '20px',
-        backgroundColor: 'greenyellow',
+        backgroundColor: 'grey',
         border: 0,
         padding: '30px',
         fontSize: '25px',
